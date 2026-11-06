@@ -39,6 +39,11 @@ was flashed with an earlier, modified RTD266xFlash sketch.
 - Jumper wires fit into the monitor's socket directly. If you tap a cable's
   plug instead, its numbering is mirrored.
 
+The B196L setup: female jumpers on the far plug of an ordinary VGA cable
+plugged into the monitor.
+
+<img src="docs/setup.jpg" alt="Arduino Uno wired to a VGA cable plug" width="480">
+
 ## Steps
 
 ```sh
