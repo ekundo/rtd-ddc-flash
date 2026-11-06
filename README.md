@@ -31,8 +31,9 @@ tools listed in Credits, for the RTD266x family.
 - Use pin 10 for ground. On the B196L pin 5 is not connected inside the
   monitor, and with ground there the bus sat at ~1 V and nothing answered.
 - No pull-up resistors and no +5 V on pin 9: the monitor has its own.
-- Jumper wires fit into the monitor's socket directly. If you tap a cable's
-  plug instead, its numbering is mirrored.
+- The drawing shows the free plug of a VGA cable plugged into the monitor,
+  pins facing you. Jumper wires also fit straight into the monitor's socket;
+  seen from the front its numbering is the mirror image.
 
 The B196L setup: female jumpers on the far plug of an ordinary VGA cable
 plugged into the monitor.
