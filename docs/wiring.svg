@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 370" width="680" height="370" font-family="Helvetica, Arial, sans-serif">
+  <rect width="680" height="370" fill="#ffffff"/>
+  <rect x="40" y="70" width="190" height="200" rx="8" fill="#f1efe8" stroke="#888780"/>
+  <text x="60" y="96" font-size="15" font-weight="bold" fill="#2c2c2a">Arduino Uno</text>
+  <text x="60" y="256" font-size="12" fill="#5f5e5a">USB to the computer</text>
+  <text x="218" y="114" font-size="14" text-anchor="end" fill="#2c2c2a">GND</text>
+  <text x="218" y="174" font-size="14" text-anchor="end" fill="#2c2c2a">A5 (SCL)</text>
+  <text x="218" y="234" font-size="14" text-anchor="end" fill="#2c2c2a">A4 (SDA)</text>
+  <rect x="226" y="105" width="8" height="10" fill="#444441"/>
+  <rect x="226" y="165" width="8" height="10" fill="#444441"/>
+  <rect x="226" y="225" width="8" height="10" fill="#444441"/>
+  <path d="M234 110 L320 110 L320 165 L420 165" fill="none" stroke="#5f5e5a" stroke-width="2.5"/>
+  <path d="M234 170 L300 170 L300 255 L440 255 L440 215" fill="none" stroke="#1d9e75" stroke-width="2.5"/>
+  <path d="M234 230 L280 230 L280 280 L560 280 L560 215" fill="none" stroke="#7f77dd" stroke-width="2.5"/>
+  <path d="M405 100 L625 100 L610 230 L420 230 Z" fill="none" stroke="#2c2c2a" stroke-width="1.2"/>
+  <g font-size="11" text-anchor="middle" fill="#2c2c2a">
+    <circle cx="440" cy="125" r="10" fill="#fcebeb" stroke="#a32d2d"/><text x="440" y="129">5</text>
+    <circle cx="480" cy="125" r="10" fill="none" stroke="#888780"/><text x="480" y="129">4</text>
+    <circle cx="520" cy="125" r="10" fill="none" stroke="#888780"/><text x="520" y="129">3</text>
+    <circle cx="560" cy="125" r="10" fill="none" stroke="#888780"/><text x="560" y="129">2</text>
+    <circle cx="600" cy="125" r="10" fill="none" stroke="#888780"/><text x="600" y="129">1</text>
+    <circle cx="430" cy="165" r="10" fill="#d3d1c7" stroke="#444441"/><text x="430" y="169">10</text>
+    <circle cx="470" cy="165" r="10" fill="none" stroke="#888780"/><text x="470" y="169">9</text>
+    <circle cx="510" cy="165" r="10" fill="none" stroke="#888780"/><text x="510" y="169">8</text>
+    <circle cx="550" cy="165" r="10" fill="none" stroke="#888780"/><text x="550" y="169">7</text>
+    <circle cx="590" cy="165" r="10" fill="none" stroke="#888780"/><text x="590" y="169">6</text>
+    <circle cx="440" cy="205" r="10" fill="#e1f5ee" stroke="#0f6e56"/><text x="440" y="209">15</text>
+    <circle cx="480" cy="205" r="10" fill="none" stroke="#888780"/><text x="480" y="209">14</text>
+    <circle cx="520" cy="205" r="10" fill="none" stroke="#888780"/><text x="520" y="209">13</text>
+    <circle cx="560" cy="205" r="10" fill="#eeedfe" stroke="#534ab7"/><text x="560" y="209">12</text>
+    <circle cx="600" cy="205" r="10" fill="none" stroke="#888780"/><text x="600" y="209">11</text>
+  </g>
+  <text x="515" y="84" font-size="15" font-weight="bold" text-anchor="middle" fill="#2c2c2a">VGA socket of the monitor</text>
+  <text x="340" y="314" font-size="12" text-anchor="middle" fill="#5f5e5a">Socket seen from the front, wide side up. On a cable plug (pins) the numbering is mirrored.</text>
+  <text x="340" y="336" font-size="12" text-anchor="middle" fill="#5f5e5a">12 = SDA, 15 = SCL, 10 = ground. Pin 5 is NOT ground on some monitors; pin 9 (+5 V) is not needed.</text>
+</svg>
