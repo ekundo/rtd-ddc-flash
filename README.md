@@ -11,9 +11,10 @@ tools listed in Credits, for the RTD266x family.
 
 [Русская версия](README.ru.md)
 
-**Status.** The B196L was read and flashed with a modified RTD266xFlash
-sketch; `arduino/rtdddc` is a clean rewrite of the same steps and has not
-yet been run on a monitor. `tools/modetable.py` is tested on real dumps.
+**Status.** Tested on an Acer B196L (6 Nov 2026): `scan`, `info`, `verify`
+of the whole 256 KB flash (65 s), and `write` of a test pattern into a blank
+sector and back, with the write protection restored. The Q50 patch itself
+was flashed with an earlier, modified RTD266xFlash sketch.
 
 ## What you need
 
