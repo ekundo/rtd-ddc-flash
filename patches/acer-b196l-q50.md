@@ -39,6 +39,16 @@ rebuilds its sampling clock from hsync, and any wobble there shows as
 shimmering pixel edges. The first Auto presses may set the sampling clock
 wrong (soft pixel edges); pressing Auto again fixed it.
 
+The monitor's own info screen reports 1280x1024, H 53 kHz, V 50 Hz (serial
+number blurred). The picture is the standard Vector-06C display test:
+
+![Q50 on the B196L](photos/b196l-q50-1.jpg)
+
+Close-up of the test bars: every pixel edge falls on a panel column, no
+shimmer:
+
+![Q50 on the B196L, close-up](photos/b196l-q50-2.jpg)
+
 ## Acer V196L b
 
 The same tool also finds the table of a V196L b firmware (table at 0x2014,
