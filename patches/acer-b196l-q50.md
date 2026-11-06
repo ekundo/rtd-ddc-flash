@@ -40,7 +40,7 @@ shimmering pixel edges. The first Auto presses may set the sampling clock
 wrong (soft pixel edges); pressing Auto again fixed it.
 
 The monitor's own info screen reports 1280x1024, H 53 kHz, V 50 Hz (serial
-number blurred). The picture is the standard Vector-06C display test:
+number covered). The picture is the standard Vector-06C display test:
 
 ![Q50 on the B196L](photos/b196l-q50-1.jpg)
 
